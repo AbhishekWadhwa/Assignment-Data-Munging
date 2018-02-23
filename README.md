@@ -2,7 +2,7 @@
 World Development Indicators - Urbanization
 Data Source: WDIFootNote.csv
 
-
+Use the local server http://172.23.238.252/csv_files for accessing csv.
 Notes:
 
 Ensure the dataset is in csv format.
