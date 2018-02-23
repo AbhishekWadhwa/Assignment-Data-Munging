@@ -5,7 +5,7 @@ const stream = require('stream');
 const instream = fs.createReadStream('Indicators.csv');
 const outstream = new stream();
 const rl = readline.createInterface(instream, outstream);
-const outputStream = fs.createWriteStream('Part1.json', { 
+const outputStream = fs.createWriteStream('Part1.json', {
 });
 outputStream.write('[');
 outputStream.write('\n');
