@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="multiline.css">
+    <script src="http://d3js.org/d3.v3.js" charset="utf-8"></script>
+    <!--script src="https://d3js.org/d3.v4.min.js"></script-->
+    <!--<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>-->
+</head>
+<body>
+<h1>Urban and Rural Population % for INDIA</h1>
+<div class="chart-wrapper" id="chart-line1"></div>
+
+<script type="text/javascript">
+    d3.json("Part1.json", function(error, data) {
+    data.forEach(function(d) {
+      d.Year = d.Year;
+      d.ValueForRuralpopulation = +d.ValueForRuralpopulation;
+      d.ValueForUrbanPopulation = +d.ValueForUrbanPopulation;
+  });
+
+    var chart = makeLineChart(data, 'Year', {
+        'ValueForRuralpopulation': {column: 'ValueForRuralpopulation'},
+        'ValueForUrbanPopulation': {column: 'ValueForUrbanPopulation'}
+    }, {xAxis: 'Years', yAxis: 'Value'});
+    chart.bind("#chart-line1");
+    chart.render();
+
+});
+</script>
+<script src="multiline.js" charset="utf-8"></script>
+</body>
+</html>

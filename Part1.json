@@ -1,0 +1,333 @@
+[
+
+{
+"Year" : "1960",
+"ValueForUrbanPopulation" : 17.924,
+"ValueForRuralpopulation" : 82.076
+}
+
+,{
+"Year" : "1961",
+"ValueForUrbanPopulation" : 18.032,
+"ValueForRuralpopulation" : 81.968
+}
+
+,{
+"Year" : "1962",
+"ValueForUrbanPopulation" : 18.218,
+"ValueForRuralpopulation" : 81.782
+}
+
+,{
+"Year" : "1963",
+"ValueForUrbanPopulation" : 18.405,
+"ValueForRuralpopulation" : 81.595
+}
+
+,{
+"Year" : "1964",
+"ValueForUrbanPopulation" : 18.595,
+"ValueForRuralpopulation" : 81.405
+}
+
+,{
+"Year" : "1965",
+"ValueForUrbanPopulation" : 18.785,
+"ValueForRuralpopulation" : 81.215
+}
+
+,{
+"Year" : "1966",
+"ValueForUrbanPopulation" : 18.977,
+"ValueForRuralpopulation" : 81.023
+}
+
+,{
+"Year" : "1967",
+"ValueForUrbanPopulation" : 19.171,
+"ValueForRuralpopulation" : 80.829
+}
+
+,{
+"Year" : "1968",
+"ValueForUrbanPopulation" : 19.366,
+"ValueForRuralpopulation" : 80.634
+}
+
+,{
+"Year" : "1969",
+"ValueForUrbanPopulation" : 19.562,
+"ValueForRuralpopulation" : 80.438
+}
+
+,{
+"Year" : "1970",
+"ValueForUrbanPopulation" : 19.76,
+"ValueForRuralpopulation" : 80.24
+}
+
+,{
+"Year" : "1971",
+"ValueForUrbanPopulation" : 19.991,
+"ValueForRuralpopulation" : 80.009
+}
+
+,{
+"Year" : "1972",
+"ValueForUrbanPopulation" : 20.321,
+"ValueForRuralpopulation" : 79.679
+}
+
+,{
+"Year" : "1973",
+"ValueForUrbanPopulation" : 20.653,
+"ValueForRuralpopulation" : 79.347
+}
+
+,{
+"Year" : "1974",
+"ValueForUrbanPopulation" : 20.991,
+"ValueForRuralpopulation" : 79.009
+}
+
+,{
+"Year" : "1975",
+"ValueForUrbanPopulation" : 21.332,
+"ValueForRuralpopulation" : 78.668
+}
+
+,{
+"Year" : "1976",
+"ValueForUrbanPopulation" : 21.677,
+"ValueForRuralpopulation" : 78.323
+}
+
+,{
+"Year" : "1977",
+"ValueForUrbanPopulation" : 22.026,
+"ValueForRuralpopulation" : 77.974
+}
+
+,{
+"Year" : "1978",
+"ValueForUrbanPopulation" : 22.379,
+"ValueForRuralpopulation" : 77.621
+}
+
+,{
+"Year" : "1979",
+"ValueForUrbanPopulation" : 22.736,
+"ValueForRuralpopulation" : 77.264
+}
+
+,{
+"Year" : "1980",
+"ValueForUrbanPopulation" : 23.098,
+"ValueForRuralpopulation" : 76.902
+}
+
+,{
+"Year" : "1981",
+"ValueForUrbanPopulation" : 23.417,
+"ValueForRuralpopulation" : 76.583
+}
+
+,{
+"Year" : "1982",
+"ValueForUrbanPopulation" : 23.647,
+"ValueForRuralpopulation" : 76.353
+}
+
+,{
+"Year" : "1983",
+"ValueForUrbanPopulation" : 23.879,
+"ValueForRuralpopulation" : 76.121
+}
+
+,{
+"Year" : "1984",
+"ValueForUrbanPopulation" : 24.113,
+"ValueForRuralpopulation" : 75.887
+}
+
+,{
+"Year" : "1985",
+"ValueForUrbanPopulation" : 24.348,
+"ValueForRuralpopulation" : 75.652
+}
+
+,{
+"Year" : "1986",
+"ValueForUrbanPopulation" : 24.585,
+"ValueForRuralpopulation" : 75.415
+}
+
+,{
+"Year" : "1987",
+"ValueForUrbanPopulation" : 24.823,
+"ValueForRuralpopulation" : 75.177
+}
+
+,{
+"Year" : "1988",
+"ValueForUrbanPopulation" : 25.063,
+"ValueForRuralpopulation" : 74.937
+}
+
+,{
+"Year" : "1989",
+"ValueForUrbanPopulation" : 25.305,
+"ValueForRuralpopulation" : 74.695
+}
+
+,{
+"Year" : "1990",
+"ValueForUrbanPopulation" : 25.547,
+"ValueForRuralpopulation" : 74.453
+}
+
+,{
+"Year" : "1991",
+"ValueForUrbanPopulation" : 25.778,
+"ValueForRuralpopulation" : 74.222
+}
+
+,{
+"Year" : "1992",
+"ValueForUrbanPopulation" : 25.984,
+"ValueForRuralpopulation" : 74.016
+}
+
+,{
+"Year" : "1993",
+"ValueForUrbanPopulation" : 26.191,
+"ValueForRuralpopulation" : 73.809
+}
+
+,{
+"Year" : "1994",
+"ValueForUrbanPopulation" : 26.399,
+"ValueForRuralpopulation" : 73.601
+}
+
+,{
+"Year" : "1995",
+"ValueForUrbanPopulation" : 26.607,
+"ValueForRuralpopulation" : 73.393
+}
+
+,{
+"Year" : "1996",
+"ValueForUrbanPopulation" : 26.817,
+"ValueForRuralpopulation" : 73.183
+}
+
+,{
+"Year" : "1997",
+"ValueForUrbanPopulation" : 27.028,
+"ValueForRuralpopulation" : 72.972
+}
+
+,{
+"Year" : "1998",
+"ValueForUrbanPopulation" : 27.24,
+"ValueForRuralpopulation" : 72.76
+}
+
+,{
+"Year" : "1999",
+"ValueForUrbanPopulation" : 27.453,
+"ValueForRuralpopulation" : 72.547
+}
+
+,{
+"Year" : "2000",
+"ValueForUrbanPopulation" : 27.667,
+"ValueForRuralpopulation" : 72.333
+}
+
+,{
+"Year" : "2001",
+"ValueForUrbanPopulation" : 27.918,
+"ValueForRuralpopulation" : 72.082
+}
+
+,{
+"Year" : "2002",
+"ValueForUrbanPopulation" : 28.244,
+"ValueForRuralpopulation" : 71.756
+}
+
+,{
+"Year" : "2003",
+"ValueForUrbanPopulation" : 28.572,
+"ValueForRuralpopulation" : 71.428
+}
+
+,{
+"Year" : "2004",
+"ValueForUrbanPopulation" : 28.903,
+"ValueForRuralpopulation" : 71.097
+}
+
+,{
+"Year" : "2005",
+"ValueForUrbanPopulation" : 29.235,
+"ValueForRuralpopulation" : 70.765
+}
+
+,{
+"Year" : "2006",
+"ValueForUrbanPopulation" : 29.569,
+"ValueForRuralpopulation" : 70.431
+}
+
+,{
+"Year" : "2007",
+"ValueForUrbanPopulation" : 29.906,
+"ValueForRuralpopulation" : 70.094
+}
+
+,{
+"Year" : "2008",
+"ValueForUrbanPopulation" : 30.246,
+"ValueForRuralpopulation" : 69.754
+}
+
+,{
+"Year" : "2009",
+"ValueForUrbanPopulation" : 30.587,
+"ValueForRuralpopulation" : 69.413
+}
+
+,{
+"Year" : "2010",
+"ValueForUrbanPopulation" : 30.93,
+"ValueForRuralpopulation" : 69.07
+}
+
+,{
+"Year" : "2011",
+"ValueForUrbanPopulation" : 31.276,
+"ValueForRuralpopulation" : 68.724
+}
+
+,{
+"Year" : "2012",
+"ValueForUrbanPopulation" : 31.631,
+"ValueForRuralpopulation" : 68.369
+}
+
+,{
+"Year" : "2013",
+"ValueForUrbanPopulation" : 31.994,
+"ValueForRuralpopulation" : 68.006
+}
+
+,{
+"Year" : "2014",
+"ValueForUrbanPopulation" : 32.366,
+"ValueForRuralpopulation" : 67.634
+}
+
+]
